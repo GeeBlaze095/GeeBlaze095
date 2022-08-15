@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeeBlaze095
-- 👀 I’m interested in Back-End Engineering
-- 🌱 I’m currently learning Node.JS
+- 👀 I’m interested in DevOps Engineering
+- 🌱 I’m currently learning Docker
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me owolabi.olu@gmail.com
 
